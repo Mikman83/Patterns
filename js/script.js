@@ -16,49 +16,49 @@ ready(function(){
   const data ={
     books: [
       {
-        src: '/Mika/Patterns/img/45-tatuirovok-prodavana.png',
+        src: '/img/45-tatuirovok-prodavana.png',
         title: '45 Татуировок продавана',
         descr: 'Правила для тех, кто продает и управляет продажами',
         price: '500 ₽',
       },
       {
-        src: '/Mika/Patterns/img/45-tatuirovok-prodavana.png',
+        src: '/img/45-tatuirovok-prodavana.png',
         title: '45 Татуировок продавана',
         descr: 'Правила для тех, кто продает и управляет продажами',
         price: '500 ₽',
       },
       {
-        src: '/Mika/Patterns/img/45-tatuirovok-prodavana.png',
+        src: '/img/45-tatuirovok-prodavana.png',
         title: '45 Татуировок продавана',
         descr: 'Правила для тех, кто продает и управляет продажами',
         price: '500 ₽',
       },
       {
-        src: '/Mika/Patterns/img/45-tatuirovok-prodavana.png',
+        src: '/img/45-tatuirovok-prodavana.png',
         title: '45 Татуировок продавана',
         descr: 'Правила для тех, кто продает и управляет продажами',
         price: '500 ₽',
       },
       {
-        src: '/Mika/Patterns/img/45-tatuirovok-prodavana.png',
+        src: '/img/45-tatuirovok-prodavana.png',
         title: '45 Татуировок продавана',
         descr: 'Правила для тех, кто продает и управляет продажами',
         price: '500 ₽',
       },
       {
-        src: '/Mika/Patterns/img/45-tatuirovok-prodavana.png',
+        src: '/img/45-tatuirovok-prodavana.png',
         title: '45 Татуировок продавана',
         descr: 'Правила для тех, кто продает и управляет продажами',
         price: '500 ₽',
       },
       {
-        src: '/Mika/Patterns/img/45-tatuirovok-prodavana.png',
+        src: '/img/45-tatuirovok-prodavana.png',
         title: '45 Татуировок продавана',
         descr: 'Правила для тех, кто продает и управляет продажами',
         price: '500 ₽',
       },
       {
-        src: '/Mika/Patterns/img/45-tatuirovok-prodavana.png',
+        src: '/img/45-tatuirovok-prodavana.png',
         title: '45 Татуировок продавана',
         descr: 'Правила для тех, кто продает и управляет продажами',
         price: '500 ₽',
